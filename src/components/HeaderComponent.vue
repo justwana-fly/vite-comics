@@ -72,6 +72,14 @@
 </script>
 
 <style lang="scss" scoped>
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container {
+    margin: 0 auto;
+}
 
  img {
      width: 50px;
