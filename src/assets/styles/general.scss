@@ -8,8 +8,7 @@ $fa-font-path: '../fonts/webfonts';
 
 @import 'bootstrap/scss/bootstrap';
 
-
-
-h1 {
-    color: $bluetext;
+body {
+    background-color: $backgroundWhite;
 }
+
