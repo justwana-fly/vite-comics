@@ -1,5 +1,6 @@
 <template>
-<h1>ciao</h1>
+<h1 class="text-center">ciao</h1>
+
 </template>
 
 <script>
@@ -9,5 +10,6 @@
 </script>
 
 <style lang="scss" scoped>
+
 
 </style>
